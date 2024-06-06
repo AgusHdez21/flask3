@@ -12,6 +12,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <h3>Agustina Hernandez Martinez 9B 20200700</h3>
+    <img src="https://tiendadepromocionales.com/cdn/shop/products/LIBRETA_GREEN_AZUL_2_1024x1024.PNG?v=1567005662" alt="Libretita" style="width:100px;">
     <h2>Agregar Tarea</h2>
     <form method="POST">
         <label for="tarea">Tarea:</label>
